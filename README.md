@@ -1,7 +1,7 @@
 ## Hi there. I'm Jose Pereira.
 
 ---
-<p> <img scr= ./optimus.gif aling="right" width="15%"/
+<p> <img scr=./optimus.gif aling="right" width="15%"/
 <samp>
   <br>Trato de ser un programador.
   <br>
