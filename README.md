@@ -1,7 +1,7 @@
 ## Hi there. I'm Jose Pereira.
 
 ---
-<p> <img scr="https://github.com/kenjin6576/kenjin6576/blob/main/optimus.gif?raw=true" aling="right" width="15%"/>
+<p> <img src="https://github.com/kenjin6576/kenjin6576/blob/main/optimus.gif?raw=true" align="right" width="15%"/>
   <br>Trato de ser un programador.
 <samp>
   <br>
