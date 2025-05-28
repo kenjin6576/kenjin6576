@@ -10,7 +10,7 @@
     <br>🔹 Aspirante a buen programador. 
     <br>🔹 Me interesa la programacion y la mecanica.
     <br>🔹 JDM lover
-    <img src="https://github.com/kenjin6576/kenjin6576/blob/main/optimus.gif?raw=true" align="right" width="15%"/>
+    <img src="./autobot.png" align="center" width="10%"/>
   </samp>
   <br>
   <br>
