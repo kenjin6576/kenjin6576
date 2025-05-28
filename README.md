@@ -1,9 +1,9 @@
 ## Hi there. I'm Jose Pereira.
 
 ---
-<p> <img scr="./optimus.gif" aling="right" width="15%"/
-<samp>
+<p> <img scr="./optimus.gif" aling="right" width="15%"/>
   <br>Trato de ser un programador.
+<samp>
   <br>
   <br>🔹 Actualmente estudiando duro.
   <br>🔹 Aspirante a buen programador. 
