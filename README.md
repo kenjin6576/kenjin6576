@@ -10,7 +10,7 @@
     <br>✪	 Aspirante a buen programador. 
     <br>✪	 Me interesa la programacion y la mecanica.
     <br>✪	 JDM lover.
-    <br>✪	 "One shall stand, one shall fall.
+    <br>✪	 "One shall stand, one shall fall".
   </samp>
   <br>
   <br>
